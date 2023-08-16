@@ -20,6 +20,7 @@ SIZE_TO_CLICK_SIZE = {
 }
 
 CKPT_SIZE = {
+    'stylegan2/stylegan2-lhq': 256,
     'stylegan2/stylegan2-ffhq-config-f.pkl': 1024,
     'stylegan2/stylegan2-cat-config-f.pkl': 256,
     'stylegan2/stylegan2-church-config-f.pkl': 256,
