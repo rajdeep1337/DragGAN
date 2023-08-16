@@ -9,3 +9,5 @@ imageio
 imageio-ffmpeg
 scikit-image
 IPython
+draggan==1.1.6
+pydantic==1.9.0
